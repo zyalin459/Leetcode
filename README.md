@@ -1,5 +1,10 @@
-# Leetcode
-Ideas for solving the problem
+# Leetcode-Problem-Notes
+**About thie repository**
+- This repositoty is for my ideas for solving the problem, there are categorized direcotories based on problem types inside the repository.
+**About this README**
+- Problem here are sorted based on problem level, is a sort of quick view of all problem I solved. 
+- Each [Notes] after a problem links to the notes inside the directory.
+- Not all problems have notes.
 
 ## Easy
 ### 1. Array
