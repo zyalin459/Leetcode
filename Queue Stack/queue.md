@@ -4,3 +4,7 @@
 
 ### 225. [Implementing stack using queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
 ![image](https://github.com/zyalin459/Leetcode/assets/143965223/ab5770b0-c8b9-44d5-abc3-23c919fbba78)
+
+
+### 239. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) 
+![image](https://github.com/zyalin459/Leetcode/assets/143965223/292375d7-b5ba-4fc7-afac-682a272647df)
