@@ -15,3 +15,6 @@ Two Pointer
 Recursion
 ![image](https://github.com/zyalin459/Leetcode/assets/143965223/b639dee9-8ba1-4e64-8832-3e1471ac3ac8)
 
+### 24. [Swap Nodes in Pair](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+![image](https://github.com/zyalin459/Leetcode/assets/143965223/e0ede668-8392-4c6a-946e-b28ba302d65c)
+
