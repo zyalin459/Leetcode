@@ -37,8 +37,7 @@ Ideas for solving the problem
 
 ### 4 Queue Stack
 #### 4.1 Queue
-225. [Implementing stack using queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
-![image](https://github.com/zyalin459/Leetcode/assets/143965223/ab5770b0-c8b9-44d5-abc3-23c919fbba78)  [Notes](https://github.com/zyalin459/Leetcode/blob/5248087080d3fccb6e2e96945384b8ffaea6d738/Queue%20Stack/queue.md#225-implementing-stack-using-queues)
+225. [Implementing stack using queues](https://leetcode.com/problems/implement-stack-using-queues/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/5248087080d3fccb6e2e96945384b8ffaea6d738/Queue%20Stack/queue.md#225-implementing-stack-using-queues)
 #### 4.2 Stack
 1544. [Make the String Great](https://leetcode.com/problems/make-the-string-great/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/1564e44f10c4636e481e25b8beb600b1635bc4b4/Queue%20Stack/stack.md#1544-make-the-string-great-easy)
 232. [Implementing queue with stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)   [Notes](https://github.com/zyalin459/Leetcode/blob/e27a41870cf6436d8f02c103483d96c3c0a8e155/Queue%20Stack/stack.md#232-implementing-queue-with-stacks-double-stack)
