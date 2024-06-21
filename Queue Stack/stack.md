@@ -7,6 +7,25 @@
 ### 232. [Implementing queue with stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) (double stack)
 ![image](https://github.com/zyalin459/Leetcode/assets/143965223/fe93526a-cf55-4f51-8f1f-6d4c966149dc)
 
+### 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+```c++
+for (int i = 0; i < s.length(); i++) {
+            if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
+                stk.push(s[i]);
+            } else {
+                if (stk.empty()) return false;
+                if (s[i] == ')' && stk.top() != '(' ||
+                    s[i] == '}' && stk.top() != '{' ||
+                    s[i] == ']' && stk.top() != '[') {
+                        return false;
+                    }
+                stk.pop();
+            } 
+        }
+        return stk.empty();
+```
+
+
 
 
 
