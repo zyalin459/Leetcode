@@ -53,8 +53,30 @@ Ideas for solving the problem
 Sort first, compare the first and the last string.)
 541. [Reverse String II](https://leetcode.com/problems/reverse-string-ii/submissions/1254608507/)  [Notes](https://github.com/zyalin459/Leetcode/blob/36142fdfe9efbc3a0412a3996b8e647870a464f7/String/other.md#541-reverse-string-ii)
 
+### 6 List
+#### 6.1 Basic Implemention
+203. [Remove Linked list elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
+83. [Remove Duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/97e5af3aab7515d5456b34598b50378732c8e268/List/basic%20implementation.md#83-remove-duplicates-from-sorted-list)
+206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/98b125646937639859eb6a7f8a6729916c7ceac9/List/basic%20implementation.md#206-reverse-linked-list)
+#### 6.2 Cycle
+141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/56cb7d1fa8308c7a3851b048d2cc4ff7d203d31b/List/Cycle.md#141-linked-list-cycle)
 
-
+### 7 Binary Tree
+#### 7.1 Basic
+226. [Invert Binary tree](https://leetcode.com/problems/invert-binary-tree/description/)  [notes](https://github.com/zyalin459/Leetcode/blob/83e4353174080df182e498c31dfda33ea5cd4ce5/Binary%20tree/Basic.md#226-invert-binary-tree)
+101. [Symmetric Binary Tree](https://leetcode.com/problems/symmetric-tree/description/)  [notes](https://github.com/zyalin459/Leetcode/blob/83e4353174080df182e498c31dfda33ea5cd4ce5/Binary%20tree/Basic.md#101-symmetric-binary-tree)
+111. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/83e4353174080df182e498c31dfda33ea5cd4ce5/Binary%20tree/Basic.md#111-minimum-depth-of-binary-tree)
+222. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)  [notes](https://github.com/zyalin459/Leetcode/blob/83e4353174080df182e498c31dfda33ea5cd4ce5/Binary%20tree/Basic.md#222-count-complete-tree-nodes)
+257. [Binary Tree Path](https://leetcode.com/problems/binary-tree-paths/description/)  [notes](https://github.com/zyalin459/Leetcode/blob/83e4353174080df182e498c31dfda33ea5cd4ce5/Binary%20tree/Basic.md#257-binary-tree-path)
+404. [Sum of Left leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/83e4353174080df182e498c31dfda33ea5cd4ce5/Binary%20tree/Basic.md#404-sum-of-left-leaves)
+144. [Binary tree preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+145. [Binary tree postorder traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+94. [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1270866011/)
+104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+#### 7.2 BST
+108. [Covert sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/a5eb54db19c6410533aef04429c2ff77f37293b5/Binary%20tree/BST.md#108-covert-sorted-array-to-bst)
+#### 7.3 Banlanced Tree
+110. [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/603a06c946b48a6cf3c4a090d8bf8181a07a9777/Binary%20tree/Balanced%20tree.md#110-balanced-binary-tree)
 
 
 
@@ -87,6 +109,24 @@ Sort first, compare the first and the last string.)
 ### 4 String
 #### Others
 12. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)  (Vector<pair<int, string>>)
+
+### 5 Matrix
+54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+59. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/70d232e947952cde714bae4222be37ad383a4173/Matrix/Spiral.md#59-spiral-matrix-ii)
+
+### 6 List
+#### 6.1 Basic Implementation
+707. [Design Linked list](https://leetcode.com/problems/design-linked-list/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/97e5af3aab7515d5456b34598b50378732c8e268/List/basic%20implementation.md#707-design-linked-list)
+17. [Remove Nth Node From the end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+24. [Swap Nodes in Pair](https://leetcode.com/problems/swap-nodes-in-pairs/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/08a3b6791ed4e2b2242a247c6fa5f0ab46198e8c/List/basic%20implementation.md#24-swap-nodes-in-pair)
+#### 6.2 CYcle
+142. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)   [Notes](https://github.com/zyalin459/Leetcode/blob/56cb7d1fa8308c7a3851b048d2cc4ff7d203d31b/List/Cycle.md#142-linked-list-cycle-ii)
+
+### 7 Binary Tree
+#### 7.1 Basic
+153. [Find bottom left tree value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) (level based)
+#### 7.2 BST
+109. [Convert sorted list to BST](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/  [Notes](https://github.com/zyalin459/Leetcode/blob/a5eb54db19c6410533aef04429c2ff77f37293b5/Binary%20tree/BST.md#108-covert-sorted-array-to-bst)
 
 
 ## Hard
