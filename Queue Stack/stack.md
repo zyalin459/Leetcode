@@ -25,6 +25,8 @@ for (int i = 0; i < s.length(); i++) {
         return stk.empty();
 ```
 
+### 150. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+![image](https://github.com/zyalin459/Leetcode/assets/143965223/09ba02d2-ca3a-4ac5-898f-61287dff6778)
 
 
 
