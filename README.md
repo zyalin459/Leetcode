@@ -25,7 +25,7 @@ Ideas for solving the problem
 
 
 ### 3. Hash table
-1. [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150)
+1. [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150) [Notes](https://github.com/zyalin459/Leetcode/blob/c8355cce03c6a51800d341ace71a02c5e3b9a777/Hash%20Table/map.md#1-two-sum-easy)
 217. [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/)
 219. [Contains Duplicates](https://leetcode.com/problems/contains-duplicate-ii/description/)
 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
@@ -53,4 +53,8 @@ Ideas for solving the problem
 #### 2.1 Queue
 950. [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10) [Notes](https://github.com/zyalin459/Leetcode/blob/0a55218632d8840c0a1015fcf71966228f61bbc1/Queue%20Stack/queue.md#950-reveal-cards-in-increasing-order)
 
+### 3. Hash Table
+#### 2.1 Map
+49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/c8355cce03c6a51800d341ace71a02c5e3b9a777/Hash%20Table/map.md#49-group-anagrams-medium)
+454. [4 SumII](https://leetcode.com/problems/4sum-ii/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/c8355cce03c6a51800d341ace71a02c5e3b9a777/Hash%20Table/map.md#4-4-sumii-medium)
 
