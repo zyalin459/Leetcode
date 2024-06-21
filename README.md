@@ -3,7 +3,8 @@ Ideas for solving the problem
 
 ## Easy
 ### Array:
-
+### Others:
+1700. [Number of students unable to eat lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/250e0c4a5ab6c275fca28a0be4dea908514febf9/Array/Others.md#1700-number-of-students-unable-to-eat-lunch)
 
 
 ## Medium
