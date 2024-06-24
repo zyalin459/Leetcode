@@ -50,6 +50,34 @@ bool hasPathSum(TreeNode* root, int sum) {
 
 ### 106. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
 ![IMG_BF67802F860B-1](https://github.com/zyalin459/Leetcode-Problem-Notes/assets/143965223/0b7986dc-8c3f-41be-aba2-577726946b99)
+```c++
+TreeNode* traversal(vector<int>& inorder, vector<int>& postorder) {
+        // 1. Empty array, empty tree
+        if(postorder.size() == 0) return nullptr;
+        // 2. the last value in postorder[] is root
+        int rootVal = postorder[postorder.size()-1];
+        TreeNode* root = new TreeNode(rootVal);
+        if (postorder.size() == 1) return root; 
+        // 3. Inorder: find the root
+        int index;
+        for (index = 0; index < inorder.size(); index++) {
+            if (inorder[index] == rootVal) break;
+        }
+        // 4. Apart inorder left tree and right tree [0,index)
+        vector<int> leftInorder(inorder.begin(), inorder.begin()+index);
+        vector<int> rightInorder(inorder.begin()+index+1, inorder.end());
 
+        postorder.resize(postorder.size()-1);
+
+        // 5. Apart postorder left tree and right tree
+        vector<int> leftPostorder(postorder.begin(), postorder.begin()+leftInorder.size());
+        vector<int> rightPostorder(postorder.begin()+leftInorder.size(),postorder.end());
+
+        root -> left = traversal(leftInorder, leftPostorder);
+        root -> right = traversal(rightInorder, rightPostorder);
+
+        return root;
+    }
+```
 
 
