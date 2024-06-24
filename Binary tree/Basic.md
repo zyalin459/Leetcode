@@ -15,3 +15,34 @@
 
 ### 404. [Sum of Left leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 ![image](https://github.com/zyalin459/Leetcode/assets/143965223/2e72eaf4-1bd7-40c4-ac54-2b148d73eeee)
+
+
+### 112. Path Sum
+Given a root and targetSum, return true if find a path from the root to leaf that sum of their value is equal to the targetSum
+#### Ideas
+- No logic about dealing with the mid-node => all order traversal are okay!
+#### Code
+```c++
+bool traversal(TreeNode* node, int count) {  // about target: minus the node everytime => 0 -- true
+  // Stop condition: meet leaf node
+  if (node -> left == nullptr && node -> right == nullptr && count == 0) return true;
+  if (node -> left == nullptr && node -> right == nullptr && count != 0) return false;
+  if (node -> left) {
+      count -= node -> left -> val;
+      if(tarversal(node->left, count)) return true;
+      count += node-> left -> val; //  backtracking: After finishing all left recursion, should go bakc to the root and
+                            // continue the right path
+  }
+  if (node -> right) {
+    count -= node -> right;
+    if (traversal(node -> right, count)) return true;
+    count += node -> right -> val;
+  }
+  return false;
+}
+
+bool hasPathSum(TreeNode* root, int sum) {
+  if (root == NULL) return false;
+  return traversal(root, sum - root->val);
+}
+```
