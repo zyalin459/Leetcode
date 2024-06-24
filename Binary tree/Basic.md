@@ -17,7 +17,7 @@
 ![image](https://github.com/zyalin459/Leetcode/assets/143965223/2e72eaf4-1bd7-40c4-ac54-2b148d73eeee)
 
 
-### 112. Path Sum
+### 112. [Path Sum](https://leetcode.com/problems/path-sum/description/) Easy
 Given a root and targetSum, return true if find a path from the root to leaf that sum of their value is equal to the targetSum
 #### Ideas
 - No logic about dealing with the mid-node => all order traversal are okay!
