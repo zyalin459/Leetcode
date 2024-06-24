@@ -79,6 +79,7 @@ Sort first, compare the first and the last string.)
 145. [Binary tree postorder traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 94. [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1270866011/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+112. [Path Sum](https://leetcode.com/problems/path-sum/description/) 
 #### 7.2 BST
 108. [Covert sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/a5eb54db19c6410533aef04429c2ff77f37293b5/Binary%20tree/BST.md#108-covert-sorted-array-to-bst)
 #### 7.3 Banlanced Tree
