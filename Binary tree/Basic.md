@@ -46,3 +46,10 @@ bool hasPathSum(TreeNode* root, int sum) {
   return traversal(root, sum - root->val);
 }
 ```
+
+
+### 106. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
+![IMG_BF67802F860B-1](https://github.com/zyalin459/Leetcode-Problem-Notes/assets/143965223/0b7986dc-8c3f-41be-aba2-577726946b99)
+
+
+
