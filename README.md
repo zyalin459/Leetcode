@@ -10,12 +10,12 @@
 ## Easy
 ### 1. Array
 #### 1.1 Two Pointer
-- 27. [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) [Notes](https://github.com/zyalin459/Leetcode/blob/8f26ba26518de4f3d827db951839c789868d7f82/Array/Two%20Pointers.md#27-remove-element)
+- 27.[Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) [Notes](https://github.com/zyalin459/Leetcode/blob/8f26ba26518de4f3d827db951839c789868d7f82/Array/Two%20Pointers.md#27-remove-element)
 
-- 977. [Square of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/8f26ba26518de4f3d827db951839c789868d7f82/Array/Two%20Pointers.md#977-square-of-a-sorted-array)
+- 977.[Square of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/8f26ba26518de4f3d827db951839c789868d7f82/Array/Two%20Pointers.md#977-square-of-a-sorted-array)
 
 #### 1.2 Sliding Window
-594. [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/8995ba53ddf2bff749b2de412cd7b01067e61288/Array/Sliding%20Window.md#594-longest-harmonious-subsequence-easy)
+594.[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/8995ba53ddf2bff749b2de412cd7b01067e61288/Array/Sliding%20Window.md#594-longest-harmonious-subsequence-easy)
 
 #### 1.3 Binary Search
 704. [Binary Search](https://leetcode.com/problems/binary-search/description/)
