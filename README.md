@@ -24,7 +24,7 @@
 #### 1.4 Others:
 1700. [Number of students unable to eat lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/250e0c4a5ab6c275fca28a0be4dea908514febf9/Array/Others.md#1700-number-of-students-unable-to-eat-lunch)
 2073. [Time needed to buy ticket](https://leetcode.com/problems/time-needed-to-buy-tickets/description/?envType=daily-question&envId=2024-04-09) simulation queue
-3194. [Minimum Average of smallest and largest elements](https://leetcode.com/contest/weekly-contest-403/problems/minimum-average-of-smallest-and-largest-elements/)
+3194. [Minimum Average of smallest and largest elements](https://leetcode.com/contest/weekly-contest-403/problems/minimum-average-of-smallest-and-largest-elements/)  [Notes](https://github.com/zyalin459/Leetcode-Problem-Notes/blob/5c0fca14bf278e12f24d60db40d92b98b7488309/Array/Others.md#3194-minimum-average-of-smallest-and-largest-elements)
 
 
 ### 2. Matrix
