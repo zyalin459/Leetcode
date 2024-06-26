@@ -136,6 +136,7 @@ Sort first, compare the first and the last string.)
 106. [Construct Binary Tree from inorder and postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)  [Notes](https://github.com/zyalin459/Leetcode-Problem-Notes/blob/3c4030e4b3a9629603671224378413ae8ede1938/Binary%20tree/Basic.md#106-construct-binary-tree-from-inorder-and-postorder-traversal)
 #### 7.2 BST
 109. [Convert sorted list to BST](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/a5eb54db19c6410533aef04429c2ff77f37293b5/Binary%20tree/BST.md#108-covert-sorted-array-to-bst)
+1038. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/?envType=daily-question&envId=2024-06-25)
 
 
 ## Hard
