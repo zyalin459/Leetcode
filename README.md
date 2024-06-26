@@ -137,6 +137,7 @@ Sort first, compare the first and the last string.)
 #### 7.2 BST
 109. [Convert sorted list to BST](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/a5eb54db19c6410533aef04429c2ff77f37293b5/Binary%20tree/BST.md#108-covert-sorted-array-to-bst)
 1038. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/?envType=daily-question&envId=2024-06-25)
+1382. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2024-06-26) 1-Convert tree to sorted array 2-Convert sorted array to bst
 
 
 ## Hard
