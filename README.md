@@ -174,6 +174,10 @@ Sort first, compare the first and the last string.)
 
 - 1382.[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2024-06-26) 1-Convert tree to sorted array 2-Convert sorted array to bst
 
+### 8 Graph
+#### DFS
+2192. [All ancestors of a node in  a directed acyclic graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/?envType=daily-question&envId=2024-06-29)
+
 
 ## Hard
 ### 1 Queue Stack
