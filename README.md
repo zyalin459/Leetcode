@@ -108,6 +108,8 @@ Sort first, compare the first and the last string.)
 
 - 112.[Path Sum](https://leetcode.com/problems/path-sum/description/)  [Notes](https://github.com/zyalin459/Leetcode-Problem-Notes/blob/13863fc00372148646bad60fe8890b9b74f38aad/Binary%20tree/Basic.md#112-path-sum-easy)
 
+- [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)   When implenting conque array to binary tree, make sure the level quit condition of recursion is `start > end`
+
 #### 7.2 BST
 - 108.[Covert sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/a5eb54db19c6410533aef04429c2ff77f37293b5/Binary%20tree/BST.md#108-covert-sorted-array-to-bst)
 #### 7.3 Banlanced Tree
