@@ -112,6 +112,7 @@ Sort first, compare the first and the last string.)
 - 108.[Covert sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/a5eb54db19c6410533aef04429c2ff77f37293b5/Binary%20tree/BST.md#108-covert-sorted-array-to-bst)
 
 - 700. [Search in a Binary Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+
 #### 7.3 Banlanced Tree
 - 110.[Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/description/)  [Notes](https://github.com/zyalin459/Leetcode/blob/603a06c946b48a6cf3c4a090d8bf8181a07a9777/Binary%20tree/Balanced%20tree.md#110-balanced-binary-tree)
 
