@@ -31,6 +31,8 @@
 
 - 3194.[Minimum Average of smallest and largest elements](https://leetcode.com/contest/weekly-contest-403/problems/minimum-average-of-smallest-and-largest-elements/)  [Notes](https://github.com/zyalin459/Leetcode-Problem-Notes/blob/5c0fca14bf278e12f24d60db40d92b98b7488309/Array/Others.md#3194-minimum-average-of-smallest-and-largest-elements)
 
+- 1550. [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01)
+
 
 ### 2. Matrix
 - 1351.[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) [Notes](https://github.com/zyalin459/Leetcode/blob/206e58a255537723aea55fe96152a48439100202/Matrix/sorted%20matrix.md#1351-count-negative-numbers-in-a-sorted-matrix)
